@@ -190,3 +190,5 @@ And I'll Zitat eines Kommentars von einem Herrn namens Linux aus dem Buch.
 “Tim is a very independent businessman. He doesn’t just look at the longest, broadest view, but actually follows Yogi Berra’s advice: ‘When you come to a fork in the road, take it.’ Looking back, Tim seems to have taken the small path every time, and several times these were fleeting opportunities, even though the big road was just fine.”
 — Linux Journal
 
+log::26.10.13
+Because the main of GitHub is a web application to finish files storage and else.so the first chapter is know about the GitHub api,andhow to use curl to check api and the coupled .json, .xml, .jdk.
