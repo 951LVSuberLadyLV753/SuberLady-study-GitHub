@@ -192,3 +192,7 @@ And I'll Zitat eines Kommentars von einem Herrn namens Linux aus dem Buch.
 
 log::26.10.13
 Because the main of GitHub is a web application to finish files storage and else.so the first chapter is know about the GitHub api,andhow to use curl to check api and the coupled .json, .xml, .jdk.
+
+log::26.10.16
+By utilizing Gist and its corresponding hypermedia API, I upload some intriguing code snippets to the repository for community members to find flaws and have fun. For instance, I created a hello world.c file using Chinese punctuation, which drew ridicule from other programmers.
+At the same time, the addition of an API to the small repository GistAPI has transformed it into more than just a repository. The flexible use of JSON information is, in my opinion, the most interesting aspect.
